@@ -1,0 +1,4 @@
+- Obsidian: Edición de notas y documentación
+- Git: historial de versiones. 
+- GitHub: Repositorio compartido del equipo
+- 
