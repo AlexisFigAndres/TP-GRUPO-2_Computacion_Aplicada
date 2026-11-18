@@ -4,9 +4,12 @@ Universidad de Palermo · Servidor Debian 12 `TPServer`
 
 ## Integrantes
 
+- Lautaro Albornoz
+- Agustin Anzuinelli
+- Ignacio Cruz
 - Alexis Figueroa
-- 
-- 
+- Facundo Velarde
+
 
 ## Objetivo
 
